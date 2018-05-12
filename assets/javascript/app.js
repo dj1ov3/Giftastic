@@ -69,6 +69,8 @@ $(document).ready(function(){
                 state = "still";
                 
                 // ____________________________________________________________________________
+                
+                //when the image is clicked switch to animated, unless its already then switch to still
                 $("body").on("click", gifImage, function() {
                     
             
