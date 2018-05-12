@@ -1,0 +1,14 @@
+/* #container,
+#buttons,
+form,
+#gifpanel{
+    border-style: solid;
+   
+} */
+
+button{
+    margin: 10px;
+}
+form{
+    float: right;
+}
